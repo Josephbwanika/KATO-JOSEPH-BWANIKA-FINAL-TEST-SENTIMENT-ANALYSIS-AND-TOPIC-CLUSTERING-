@@ -1,0 +1,4 @@
+sentiment140_data/
+news_data/
+*.csv
+*.json
